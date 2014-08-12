@@ -31,41 +31,48 @@
 </head>
 
 <body>
+  <!-- Navigation -->
+  <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+      <div class="container">
+          <!-- Brand and toggle get grouped for better mobile display -->
+          <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                  <span class="sr-only">Toggle navigation</span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+              </button>
+              <a class="navbar-brand" href="#">Kristen Faulkner</a>
+          </div>
+          <!-- Collect the nav links, forms, and other content for toggling -->
+          <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+              <ul class="nav navbar-nav navbar-right">
+                  <li>
+                      <a href="https://www.dropbox.com/s/osvwk0hsa3egvf7/Kristen%20T%20Faulkner%20resume%20August%202013.pdf">Resume</a>
+                  </li>
+                  <li>
+                      <a href="file:///Users/kristenfaulkner/Dropbox/github_projects/landing-page/about.html# ">About</a>
+                  </li>
+                  <li>
+                      <a href="file:///Users/kristenfaulkner/Dropbox/github_projects/landing-page/contact.html# ">Contact</a>
+                  </li>
+                  <li>
+                      <a href="#">Portfolio</a>
+                  </li>
+              </ul>
+          </div>
+          <!-- /.navbar-collapse -->
+      </div>
+      <!-- /.container -->
+  </nav>
 
-    <!-- Navigation -->
-    <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
-        <div class="container">
-            <!-- Brand and toggle get grouped for better mobile display -->
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                <a class="navbar-brand" href="#">Kristen Faulkner</a>
-            </div>
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                <ul class="nav navbar-nav navbar-right">
-                    <li>
-                        <a href="http://kristenfaulkner.github.io/">Resume</a>
-                    </li>
-                    <li>
-                        <a href="./about.html">About</a>
-                    </li>
-                    <li>
-                        <a href="./contact.html">Contact</a>
-                    </li>
-                    <li>
-                        <a href="./index.html">Portfolio</a>
-                    </li>
-                </ul>
-            </div>
-            <!-- /.navbar-collapse -->
-        </div>
-        <!-- /.container -->
-    </nav>
+
+<div class="jumbotron contact-us">
+  <h1>This is my About me page!</h1>
+</div>
+
+</body>
+</html>
 
 <!-- jQuery Version 1.11.0 -->
 <script src="js/jquery-1.11.0.js"></script>
@@ -73,5 +80,10 @@
 <!-- Bootstrap Core JavaScript -->
 <script src="js/bootstrap.min.js"></script>
 
-  </body>
-  </html>
+
+
+<script>
+$('#contactSubmitButton').on('click', function() {
+  alert("Thank you!");
+});
+</script>
