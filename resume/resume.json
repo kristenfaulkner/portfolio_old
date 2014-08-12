@@ -1,0 +1,94 @@
+{
+ 	"name" : "Kristen Faulkner",
+ 	"contact" : "faulkner@college.harvard.edu",
+ 	"title" : "Web Developer",
+ 	"objective" : "To work as a software engineer and/or web developer",
+	"aboutme" : "I am a Harvard Computer Science student who loves startups, code, and all things tech-oriented.",
+ 	"social" : [
+ 		{
+ 			"link" : "http://www.kristenfaulkner.com",
+ 			"name" : "Website"
+ 		},
+ 		{
+ 			"link" : "http://www.linkedin.com/in/kristenfaulkner",
+ 			"name" : "LinkedIn"
+ 		},
+ 		{
+ 			"link" : "https://www.tumblr.com/blog/faulknerkristen",
+ 			"name" : "Tumblr"
+ 		},
+ 		{
+ 			"link" : "https://github.com/kristenfaulkner",
+ 			"name" : "Github"
+ 		}
+ 	],
+ 	"skills" : [
+ 		"Ruby",
+ 		"Ruby on Rails",
+ 		"Javascript",
+ 		"Backbone.js",
+ 		"SQL",
+ 		"Html",
+		"CSS",
+		"Bootstrap",
+		"C",
+		"OCaml"
+ 	],
+
+ 	"frameworks" : [
+ 		"Ruby on Rails",
+ 		"Backbone.js"
+ 	],
+ 	"projects" : [
+ 		{
+ 			"name" : "Rent-My-Pet",
+ 			"technologies" : "Bootstrap, JQuery UI, CSS, HTML, Ruby on Rails, Backbone.js, Google Maps API",
+ 			"description" : "Users can upload and rent out their pets."
+ 		},
+ 		{
+ 			"name" : "TrelloClone",
+ 			"technologies" : "Bootstrap, JQuery UI, CSS, HTML, Ruby on Rails, Backbone.js",
+			"description" : "A handy To-do app where users can create boards, lists, and cards."
+ 		}
+ 	],
+ 	"experience" : [
+ 		{
+			"company" : "Land's End",
+ 			"link" : "http://www.lands-end-resort.com/",
+ 			"title" : "Front Desk",
+ 			"startDate" : "2009",
+ 			"endDate" : "Present",
+ 			"responsibilities" : "Managed reservations, answered phone-calls, checked guests in and out.",
+ 			"achievements" : "Youngest employee to work at front desk"
+ 		}
+ 	],
+ 	"activities" : [
+ 		{
+ 			"title" : "Harvard Women in Computer Science",
+			"location" : "Harvard",
+			"link" : "http://www.hcs.harvard.edu/~harvardwomenincs/"
+ 		},
+ 		{
+ 			"title" : "Varsity Rowing",
+ 			"location" : "Harvard",
+ 			"link" : "http://gocrimson.com/sports/wcrew-hw/index",
+ 			"achievements" : "Boat won 1st Place at Ivy Leage Championship in 2012"
+
+ 		}
+ 	],
+ 	"education" : [
+ 		{
+ 			"school" : "Harvard University",
+ 			"startDate" : "2011",
+ 			"endDate" : "present",
+ 			"program" : "Computer Science",
+ 			"achievements" : "3rd place at New England Chinese Speech Competition, Students for Education Reform (Director of Events) 2012, Harvard College Venture Partners (Director of Recruiting) 2012, Resident at Harvard Innovation Lab"
+ 		},
+ 		{
+ 			"school" : "Phillips Academy High School",
+ 			"startDate" : "2007",
+ 			"endDate" : "2011",
+ 			"achievements": "Honor Roll, Captain of Varsity swimming, Phelp's Scholar (4-year full scholarship awarded for outstanding academic and athletic achievement), U.S. Junior National Rowing Team (placed 2nd at World Championship in 2010), Spanish Language Award"
+ 		}
+ 	]
+ }
