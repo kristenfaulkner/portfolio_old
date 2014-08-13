@@ -27,12 +27,13 @@
  		"Ruby on Rails",
  		"Javascript",
  		"Backbone.js",
+ 		"JQuery",
  		"SQL",
  		"Html",
 		"CSS",
-		"Bootstrap",
 		"C",
-		"OCaml"
+		"OCaml",
+		"Git"
  	],
 
  	"frameworks" : [
