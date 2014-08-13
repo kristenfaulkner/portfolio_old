@@ -65,16 +65,25 @@
  	],
  	"activities" : [
  		{
- 			"title" : "Harvard Women in Computer Science",
-			"location" : "Harvard",
-			"link" : "http://www.hcs.harvard.edu/~harvardwomenincs/"
+
+ 			"title" : "Phillips Academy Phelp's Scholar",
+			"location" : "Full scholarship awarded for outstanding academic and athletic achievement"
+			"link" : "2013-2014"
  		},
  		{
- 			"title" : "Varsity Rowing",
- 			"location" : "Harvard",
- 			"link" : "http://gocrimson.com/sports/wcrew-hw/index",
- 			"achievements" : "Boat won 1st Place at Ivy Leage Championship in 2012"
-
+ 			"title" : "Kairos Society Fellow",
+ 			"location": "Global Entrepreneurship Society",
+ 			"link" : "2013-2014"
+ 		},
+ 		{
+ 			"title" : "Harvard Varsity Rowing",
+ 			"location" : "Boat won first place at Ivy League Championship",
+ 			"link" : "2011-2012"
+ 		},
+ 		{
+ 			"title" : "Resident at Harvard Innovation Lab",
+ 			"location" : "selective application for student entrepreneurs",
+ 			"2013"
  		}
  	],
  	"education" : [
