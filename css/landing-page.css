@@ -243,5 +243,6 @@ p.copyright {
 .about-img {
   width: 500px;
   height: auto;
-  align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
