@@ -64,8 +64,9 @@
  	"activities" : [
  		{
  			"title" : "Harvard Women in Computer Science",
-			"location" : "Harvard",
-			"link" : "http://www.hcs.harvard.edu/~harvardwomenincs/"
+			"location" : "Harvard"
+			// ,
+			// "link" : "http://www.hcs.harvard.edu/~harvardwomenincs/"
  		},
  		{
  			"title" : "Varsity Rowing",
