@@ -2,8 +2,8 @@
  	"name" : "Kristen Faulkner",
  	"contact" : "faulkner@college.harvard.edu",
  	"title" : "Web Developer",
- 	"objective" : "154 Cabot Mail Center, Cambridge, MA 02138",
-	"aboutme" : "978-270-5466",
+ 	"objective" : "To work as a software engineer and/or web developer",
+	"aboutme" : "I am a Harvard Computer Science student who loves startups, code, and all things tech-oriented.",
  	"social" : [
  		{
  			"link" : "http://www.kristenfaulkner.com",
@@ -27,13 +27,12 @@
  		"Ruby on Rails",
  		"Javascript",
  		"Backbone.js",
- 		"JQuery",
  		"SQL",
  		"Html",
 		"CSS",
+		"Bootstrap",
 		"C",
-		"OCaml",
-		"Git"
+		"OCaml"
  	],
 
  	"frameworks" : [
@@ -64,8 +63,18 @@
  		}
  	],
  	"activities" : [
+ 		{
+ 			"title" : "Harvard Women in Computer Science",
+			"location" : "Harvard",
+			"link" : "http://www.hcs.harvard.edu/~harvardwomenincs/"
+ 		},
+ 		{
+ 			"title" : "Varsity Rowing",
+ 			"location" : "Harvard",
+ 			"link" : "http://gocrimson.com/sports/wcrew-hw/index",
+ 			"achievements" : "Boat won 1st Place at Ivy Leage Championship in 2012"
 
- 		
+ 		}
  	],
  	"education" : [
  		{
