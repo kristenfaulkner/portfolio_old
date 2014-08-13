@@ -240,9 +240,15 @@ p.copyright {
   max-height: 275px;
 }*/
 
-.about-img {
+.contact-img {
   width: 500px;
   height: auto;
   margin-left: 23%;
   margin-right: auto;
+}
+
+.about-img {
+  width: 200px;
+  height: auto;
+  display: inline-block;
 }
