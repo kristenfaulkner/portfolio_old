@@ -1,6 +1,6 @@
 {
  	"name" : "Kristen Faulkner",
- 	"contact" : "faulkner@college.harvard.edu 					978-270-5466",
+ 	"contact" : "faulkner@college.harvard.edu 978-270-5466",
  	"title" : "Web Developer",
  	"social" : [
  		{
@@ -24,13 +24,14 @@
  		"Ruby",
  		"Ruby on Rails",
  		"Javascript",
+ 		"JQuery",
  		"Backbone.js",
  		"SQL",
  		"Html",
 		"CSS",
-		"Bootstrap",
 		"C",
-		"OCaml"
+		"OCaml",
+		"Git"
  	],
 
  	"frameworks" : [
@@ -62,8 +63,8 @@
  	],
  	"activities" : [
  		{
- 			"title" : "Harvard Women in Computer Science",
-			"location" : "Harvard",
+ 			"title" : "Phillips Academy Phelp's Scholar",
+			"location" : "4-year scholarship awarded for outstanding academic and athletic achievement",
 			"link" : "http://www.hcs.harvard.edu/~harvardwomenincs/"
  		},
  		{
