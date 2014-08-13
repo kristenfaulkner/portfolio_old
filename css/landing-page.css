@@ -250,5 +250,6 @@ p.copyright {
 .about-img {
   width: 200px;
   height: auto;
-  display: inline-block;
+  margin-left: 23%;
+  margin-right: auto;
 }
