@@ -64,12 +64,18 @@
  		}
  	],
  	"activities" : [
- 		{
-
- 			"title" : "Phillips Academy Phelp's Scholar",
-			"location" : "Full scholarship awarded for outstanding academic and athletic achievement",
-			"link" : "2013-2014"
+ 	 		{
+ 			"title" : "Harvard Women in Computer Science",
+			"location" : "Harvard",
+			"link" : "http://www.hcs.harvard.edu/~harvardwomenincs/"
  		}
+ 		// ,
+ 		// {
+
+ 		// 	"title" : "Phillips Academy Phelp's Scholar",
+			// "location" : "Full scholarship awarded for outstanding academic and athletic achievement",
+			// "link" : "2013-2014"
+ 		// }
  		// {
  		// 	"title" : "Kairos Society Fellow",
  		// 	"location": "Global Entrepreneurship Society",
