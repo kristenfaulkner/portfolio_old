@@ -239,3 +239,8 @@ p.copyright {
 .feature-photo img {
   max-height: 275px;
 }*/
+
+.about-img {
+  width: 500px;
+  height: auto;
+}
